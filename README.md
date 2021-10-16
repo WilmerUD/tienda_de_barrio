@@ -63,7 +63,7 @@
 <li>Ver zona de cobertura.</li>
 <li>Realizar pagos por PSE o tarjeta de Crédito.</li>
 </ol>   
- <h3>Comprador</h3>
+ <h3>Domiciliario</h3>
 <ol> 
  
 <li>Recibir Solicitud del pedido a entregar.</li>
