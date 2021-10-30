@@ -15,7 +15,7 @@
 <p>Plataforma que administre pedidos de una tienda de barrio</p>
 
 <h2>Justificación</h2>
-<a href="https://www.w3schools.com/">Justificacion de arquitectura basada en Microservicios</a>
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Justificacion%20Microservicios%20Mi%20Tienda.pdf">Justificacion de arquitectura basada en Microservicios</a>
 
 <h2>Clases y características de usuarios</h2>
 <ul>
