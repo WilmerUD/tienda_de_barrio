@@ -13,6 +13,10 @@
 <h2>Introducción</h2>
 <img src="https://us.123rf.com/450wm/schlaumal/schlaumal1807/schlaumal180700005/104710853-tienda-tienda-icono-con-se%C3%B1al-en-blanco-fachada-casa-aislado-blanco-plano-de-fondo.jpg" width="100">
 <p>Plataforma que administre pedidos de una tienda de barrio</p>
+
+<h2>Justificación</h2>
+<a href="https://www.w3schools.com/">Justificacion de arquitectura basada en Microservicios</a>
+
 <h2>Clases y características de usuarios</h2>
 <ul>
 <li><b>Vendedor </b> </li>
