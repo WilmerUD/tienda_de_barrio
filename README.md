@@ -94,3 +94,7 @@
 <li>Debe ser multiplataforma para ejecutarse en distintos navegadores (Chrome, Opera, Firefox, Explorer).</li>
 <li>Se deben cumplir las políticas de Habeas Data para proteger información susceptible de los usuarios.</li>
 </ol>
+<h2>Diseño de Mockups</h2>
+<a href="https://www.figma.com/file/PP0J6bO2N16JMkCelWmkiQ/Mockups?node-id=88%3A639">Vistas del diseño web</a>
+
+
