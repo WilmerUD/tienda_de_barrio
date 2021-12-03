@@ -36,47 +36,18 @@
 
 
 <h2>Requerimientos funcionales</h2>
-<h3>Adminsitrador - Vendedor</h3>
-
 <ol> 
-<li>Registrar y eliminar Productos.</li>
-<li>Visualizar y editar los productos.</li>
-<li>Gestionar las cuentas de los compradores y domiciliarios.</li>
-<li>Ver el historial de ventas y compras.</li>
-<li>Ver reporte de precios.</li>
-<li>Ver las facturas generadas.</li>
-<li>Ver los tiempos de entrega de cada domiciliario.</li>
-<li>Ver estado de los pedidos.</li>
-<li>Registrarse y loguearse  en el sistema.</li>
-<li>Creación de promociones.</li>
-<li>notificaciones por correo.</li>
-</ol>   
- <h3>Comprador</h3>
-
-<ol> 
-<li>Registrarse  (Cualquier rol).</li>
-<li>Iniciar sesión (Cualquier rol).</li>
+<li>Gestionar productos.</li>
+<li>Visualizar estado de los pedidos.</li>
+<li>Registrarse al sistema de un nuevo usuario (Cualquier rol).</li>
+<li>Inicio de Sesion de usuarios.</li>
 <li>Agregar productos al carrito de compras.</li>
-<li>Compra de elementos.</li>
-<li>Pago de productos.</li>
-<li>Comprobante de pago.</li>
-<li>Hacer seguimiento a una compra.</li>
-<li>Modificar los elementos comprados.</li>
-<li>Ver y modificar los datos personales.</li>
-<li>Ver historial de compras realizadas.</li>
-<li>Ver zona de cobertura.</li>
-<li>Realizar pagos por PSE o tarjeta de Crédito.</li>
-</ol>   
- <h3>Domiciliario</h3>
-<ol> 
- 
+<li>Compra de productos.</li>
+<li>Seguimiento a una compra</li>
+<li>Gestionar datos del usuario.</li>
 <li>Recibir Solicitud del pedido a entregar.</li>
-<li>Recibir información detallada del pedido.</li>
-<li>Ver ruta más corta de la dirección de entrega.</li>
-<li>Ver historial de entregas realizadas.</li>
-<li>Ver tiempo promedio de cada entrega realizada.</li>
-<li>Ver tiempo de la entrega activa.</li>
-<li>Confirmación de entrega del pedido.</li>
+ <li>Confirmación de entrega del pedido.</li>
+
 </ol>
 <h2>Requerimientos no funcionales</h2>
 <ol> 
@@ -94,6 +65,16 @@
 <li>Debe ser multiplataforma para ejecutarse en distintos navegadores (Chrome, Opera, Firefox, Explorer).</li>
 <li>Se deben cumplir las políticas de Habeas Data para proteger información susceptible de los usuarios.</li>
 </ol>
+
+<h2>Base de Datos - Modelo Entidad Relacion</h2>
+
+
+<h2>Base de Datos - Script de base de datos</h2>
+
+<h2>Microservicios</h2>
+
+<h2>Dockers</h2>
+
 <h2>Documentacion Swagger</h2>
 <a href="http://localhost:8080/swagger-ui.html">Domcumentacion API Productos</a>
 <p> </p>
@@ -103,8 +84,16 @@
 <p> </p>
 <a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda.pdf">Vistas del diseño web</a>
 
-<h2>Diseño de Mockups</h2>
+<h2>Mockups</h2>
+
 <a href="https://www.figma.com/file/PP0J6bO2N16JMkCelWmkiQ/Mockups?node-id=88%3A639">Vistas del diseño web</a>
+
+<h2>Marquetizacion</h2>
+
+<h2>BPM</h2>
+
+
+
 
 
 
