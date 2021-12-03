@@ -2,11 +2,11 @@ $(document).ready(main);
 
 function main(){    
     var info_products = [
-    ["../img/cocacola_15.jpg","Coca-cola 600 ml",2000,2],
-    ["../img/platano.jpg","Platano verde 90 gr",1400,4],
-    ["../img/burbuja.jpg","Dulce de chocolate",350,7],
-    ["../img/Kumis.jpg","Kumis 200 gr",2000,3],
-    ["../img/huevos.jpg","Cubeta de huevos",5000,2]
+    ["img/cocacola_15.jpg","Coca-cola 600 ml",2000,2],
+    ["img/platano.jpg","Platano verde 90 gr",1400,4],
+    ["img/burbuja.jpg","Dulce de chocolate",350,7],
+    ["img/Kumis.jpg","Kumis 200 gr",2000,3],
+    ["img/huevos.jpg","Cubeta de huevos",5000,2]
     ];
     
     var product = document.getElementById("products-descript");
