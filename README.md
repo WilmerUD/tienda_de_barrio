@@ -88,7 +88,9 @@
 
 <a href="https://www.figma.com/file/PP0J6bO2N16JMkCelWmkiQ/Mockups?node-id=88%3A639">Vistas del diseño web</a>
 
-<h2>Marquetizacion</h2>
+<h2>Maqueta</h2>
+
+<a href="https://wilmerud.github.io/tienda_de_barrio/mitiendita/">Producto minimo viable - Prototipo de pagina web</a>
 
 <h2>BPM</h2>
 
