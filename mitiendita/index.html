@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="language" content="es-CO">
+    <meta name="country" content="COL">
+    <meta name="description" content="La mejor tienda Virtual de viveres, bebidas, snacks y algo mas">
+	<meta name="keywords" content="tienda, virtual, mitiendita, mitiendita.com, viveres, bebidas">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="theme-color" content="#111626" />
+    <meta name="Abstract" content="Mi Tiendita | mitiendita.com">
+    <meta name="author" content="mitiendita">
+    <meta name="copyright" content="mitiendita.com">
+    <meta property="og:title" content="mitiendita" />
+    <meta property="og:type" content="product" />
+    <meta property="og:url" content="https://www.mitiendita.com/" />
+    <meta property="og:image" content="https://www.mitiendita.com/img/logo_mi_tienda_500.png" />
+    <meta property="og:description" content="La mejor tienda Virtual de viveres, bebidas, snacks y algo mas" />
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Last-Modified" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <title>Mi Tiendita</title>
+    <link rel="stylesheet" href="/css/main-catalogue.css">
+    <script src="/js/jquery-latest.min.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/request.js" type="module"></script>
+</head>
+<body>
+   <header>
+       <div class="container-header">
+           <div class="menu-logo">
+                <img src="../icon/menu_icon.svg" alt="MDN">
+           </div>
+           <div class="hearder-title">
+                <H1>MI TIENDITA</H1>
+           </div>
+           <div class="header-search">
+                <form class="menu-search" action="" method="GET" name="">
+                    <input class="input_search" type="text" id="user" name="user" placeholder="Buscar producto" maxlength="120" autofocus="" >
+                    <input type="submit" id="search-product" value=" " class="button_search">
+                </form>
+            </div>
+           <div class="header-cart">
+                <div class="header-cart-icon">
+                    <img src="../icon/shopping_cart_icon.svg" alt="MDN">
+               </div>
+               <div class="header-cart-number">
+                    <a href="/carrito/" id="quantity-products"></a>
+               </div>
+           </div>
+           <div class="header-user">
+                <div class="header-user-icon">
+                    <img src="../icon/user_2_icon.svg" alt="MDN">
+               </div>
+            <a href="/login/">Iniciar sesión</a>
+           </div>
+       </div>
+   </header>
+   <div class="container-body">
+        <div class="title-body">
+            <h2>CATALOGO DE PRODUCTOS</h2>
+        </div>
+        <div class="catalogue-body">
+            <div class="category-products" id="products-category">
+
+            </div> 
+        </div>
+   </div>
+   <footer>
+
+   </footer>
+</body>
+</html>
