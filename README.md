@@ -101,9 +101,11 @@
 <p> </p>
 <a href="http://localhost:8082/swagger-ui.html">Domcumentacion API Clientes</a>
 <p> </p>
-
+<a href="https://github.com/Ivanse90/tienda_de_barrio/blob/main/Requerimientos%20de%20software%20Mi%20tienda.pdf">Vistas del diseño web</a>
 
 <h2>Diseño de Mockups</h2>
 <a href="https://www.figma.com/file/PP0J6bO2N16JMkCelWmkiQ/Mockups?node-id=88%3A639">Vistas del diseño web</a>
+
+
 
 
