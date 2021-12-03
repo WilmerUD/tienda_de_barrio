@@ -2,21 +2,21 @@ $(document).ready(main);
 
 function main(){    
     var info_products = [
-    ["#","../img/cocacola_15.jpg","Bebida Gaseosa","Coca-cola","600 ml",2000,10],
-    ["#","../img/jugo_hit.jpg","Bebida Natural","Jugo Hit","600 ml",2500,20],
-    ["#","../img/agua.jpg","Bebida","Agua Cristalina","600 ml",1400,20],   
-    ["#","../img/papas.jpg","Papas Fritas Margarita","Papas de pollo","150 gr",1600,20],
-    ["#","../img/platano.jpg","Tajaditas Ramo","Platano verde","90 gr",1400,20],
-    ["#","../img/roscas.jpg","Rosquitas Caseritas","Rosquitas de maiz","50 gr",1500,20],  
-    ["#","../img/menta.jpg","Golosinas","Mentas","Unidad",100,20],
-    ["#","../img/burbuja.jpg","Bombon","Dulce de chocolate","14 gr",350,20],
-    ["#","../img/trident.jpg","Golosinas","Goma de mascar","30 gr",200,20],  
-    ["#","../img/yogurt.jpg","Bebida Láctea","Yogurt","200 gr",2700,20],
-    ["#","../img/kumis.jpg","Bebida Láctea","Kumis","200 gr",2000,20],
-    ["#","../img/alpin.jpg","Bebida Láctea","Alpin","200 gr",1850,20],
-    ["#","../img/bonyurt.jpg","Bebida Láctea","Bonyurt","170 gr",3100,20],
-    ["#","../img/salchicha.jpg","Embutidos","Salchicha Ranchera","5 Unidades",4800,20],
-    ["#","../img/huevos.jpg","Canasta familia","Cubeta de huevos","30 Unidades",5000,20]
+    ["#","img/cocacola_15.jpg","Bebida Gaseosa","Coca-cola","600 ml",2000,10],
+    ["#","img/jugo_hit.jpg","Bebida Natural","Jugo Hit","600 ml",2500,20],
+    ["#","img/agua.jpg","Bebida","Agua Cristalina","600 ml",1400,20],   
+    ["#","img/papas.jpg","Papas Fritas Margarita","Papas de pollo","150 gr",1600,20],
+    ["#","img/platano.jpg","Tajaditas Ramo","Platano verde","90 gr",1400,20],
+    ["#","img/roscas.jpg","Rosquitas Caseritas","Rosquitas de maiz","50 gr",1500,20],  
+    ["#","img/menta.jpg","Golosinas","Mentas","Unidad",100,20],
+    ["#","img/burbuja.jpg","Bombon","Dulce de chocolate","14 gr",350,20],
+    ["#","img/trident.jpg","Golosinas","Goma de mascar","30 gr",200,20],  
+    ["#","img/yogurt.jpg","Bebida Láctea","Yogurt","200 gr",2700,20],
+    ["#","img/kumis.jpg","Bebida Láctea","Kumis","200 gr",2000,20],
+    ["#","img/alpin.jpg","Bebida Láctea","Alpin","200 gr",1850,20],
+    ["#","img/bonyurt.jpg","Bebida Láctea","Bonyurt","170 gr",3100,20],
+    ["#","img/salchicha.jpg","Embutidos","Salchicha Ranchera","5 Unidades",4800,20],
+    ["#","img/huevos.jpg","Canasta familia","Cubeta de huevos","30 Unidades",5000,20]
     ];           
     
     var product = document.getElementById("products-category");
