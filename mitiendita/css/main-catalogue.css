@@ -96,7 +96,7 @@ body{
     border: 0;
     border-radius: 0px 10px 15px 0px;
     cursor: pointer;
-    background-image: url(../icon/search_icon.svg);
+    background-image: url(icon/search_icon.svg);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position: center;
