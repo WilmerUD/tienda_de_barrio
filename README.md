@@ -95,9 +95,9 @@
 <li>Se deben cumplir las políticas de Habeas Data para proteger información susceptible de los usuarios.</li>
 </ol>
 <h2>Documentacion Swagger</h2>
-<a href="http://localhost:8080/swagger-ui.html">Domcumentacion API 1</a>
-<a href="http://localhost:8081/swagger-ui.html">Domcumentacion API 2</a>
-<a href="http://localhost:8082/swagger-ui.html">Domcumentacion API 3</a>
+<a href="http://localhost:8080/swagger-ui.html">Domcumentacion API Productos</a>
+<a href="http://localhost:8081/swagger-ui.html">Domcumentacion API Pedidos</a>
+<a href="http://localhost:8082/swagger-ui.html">Domcumentacion API Clientes</a>
 
 
 <h2>Diseño de Mockups</h2>
